@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-29 16:01+0300\n"
+"PO-Revision-Date: 2017-09-29 16:02+0000\n"
+"Last-Translator:   <sander.lepik@knowit.ee>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Translated-Using: django-rosetta 0.7.13\n"
+
+#: .\mywebsite\templates\dashboard.html:137
+msgid "Log out"
+msgstr "Log out"
+
+#: .\mywebsite\templates\dashboard.html:153
+msgid "Order information"
+msgstr "Order information"
+
+#: .\mywebsite\templates\dashboard.html:154
+msgid "Insert order"
+msgstr "Insert order"
+
+#: .\mywebsite\templates\dashboard.html:160
+msgid "Order description"
+msgstr "Order description"
+
+#: .\mywebsite\templates\dashboard.html:165
+msgid "Order location"
+msgstr "Order location"
+
+#: .\mywebsite\templates\dashboard.html:170
+msgid "Order amount"
+msgstr "Order amount"
+
+#: .\mywebsite\templates\dashboard.html:175
+msgid "Order number"
+msgstr "Order number"
